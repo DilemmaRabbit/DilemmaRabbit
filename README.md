@@ -12,6 +12,6 @@
 
 如果發現裡面有些教學或觀念有錯誤或者誤導的問題，請不吝指教
 
-目前也還在佈置中，稍有簡陋敬請見諒~
+目前也還在佈置中，稍有簡陋敬請見諒 ~ 🐰
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilemmaRabbit&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
