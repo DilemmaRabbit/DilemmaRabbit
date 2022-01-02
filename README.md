@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilemmaRabbit)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilemmaRabbit&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
